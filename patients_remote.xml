@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PatientList>
+    <Patient>
+        <Name>John</Name>
+        <SecondName>Smith</SecondName>
+        <Birthday>1955-09-11</Birthday>
+        <IsHealthy>true</IsHealthy>
+     </Patient>
+    <Patient>
+        <Name>Billy</Name>
+        <SecondName>Bons</SecondName>
+        <Birthday>1979-08-11</Birthday>
+        <IsHealthy>false</IsHealthy>
+    </Patient>
+    <Patient>
+        <Name>Bon</Name>
+        <SecondName>Scott</SecondName>
+        <Birthday>1952-11-12</Birthday>
+        <IsHealthy>false</IsHealthy>
+    </Patient>
+</PatientList>
